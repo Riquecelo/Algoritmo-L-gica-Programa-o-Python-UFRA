@@ -1,1 +1,1 @@
-# Algoritmo-L-gica-Programa-o-Python-UFRA
+# Algoritmo-Lógica-Programação-Python-UFRA
