@@ -1,0 +1,7 @@
+https://www.devmedia.com.br/introducao-ao-mongodb/30792
+https://aws.amazon.com/pt/nosql/document/
+https://definirtec.com/banco-de-dados-orientado-a-documentos/
+https://definirtec.com/banco-de-dados-orientado-a-documentos/
+https://imasters.com.br/banco-de-dados/introducao-para-modelagem-de-dados-para-banco-orientado-documentos
+https://mvjufs.blogspot.com/2014/12/banco-de-dados-nosql-orientado-documento.html
+https://www.treinaweb.com.br/blog/tipos-de-banco-de-dados-nosql
